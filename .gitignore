@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+georaster_toolkit_d.so
+georaster_toolkit_d.dylib
+georaster_toolkit_d.dll
+georaster_toolkit_d.a
+georaster_toolkit_d.lib
+georaster_toolkit_d-test-*
+*.exe
+*.o
+*.obj
+*.lst
